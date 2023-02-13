@@ -50,7 +50,7 @@
     display: grid;
     gap: 0.5em;
 }
-.resident__items{
+.resident__item{
     display: flex;
     flex-direction: column;
 }
